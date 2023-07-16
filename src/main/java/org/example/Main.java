@@ -157,6 +157,8 @@ public class Main {
 
         System.out.println("我在github上做了修改！");
 
+        System.out.println("我在IDEA上做了修改，之后提交到远程分支！");
+
 
 
 
