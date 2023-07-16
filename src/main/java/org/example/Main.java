@@ -152,6 +152,8 @@ public class Main {
         System.out.println(student33.getStatus().getName());
         System.out.println(student33.getStatus());
 
+        System.out.println("-----------------");
+
 
 
 
